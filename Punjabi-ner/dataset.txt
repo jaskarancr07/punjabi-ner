@@ -1,0 +1,3 @@
+The Punjabi dataset can be found here:
+
+https://indicnlp.ai4bharat.org/corpora/
